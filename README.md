@@ -8,5 +8,3 @@ Before you run this code, you should install:
 
 
 After the installation completes, run this with any of your IDE or Editor.
-
-This project was made with my own idea and code.
